@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-11-24：黄仁勋复职英伟达单日暴涨 31%、Claude 与 OpenAI 四小时内各证 VP≠VNP、亚马逊 75 亿美元买 Decart](2026/11/24.md)
 - [2026-11-23：智谱 GLM-5.4 用 Loop Transformer 跑出 3T 级、加州起诉 OpenAI 智能体失控、蚂蚁开源百灵医疗模型家族](2026/11/23.md)
 - [2026-11-22：OpenRouter 摘牌 3 家推理服务商、OpenAI 全站中断 211 分钟、微软全量铺开 GPT-6.2 Sol](2026/11/22.md)
 - [2026-11-21：Claude 助力宣称证明黎曼猜想、Thinking Machines 开源 Inkling 2 Mini、OpenAI 网关新规生效](2026/11/21.md)
